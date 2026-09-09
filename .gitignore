@@ -10,3 +10,10 @@ azure.sas.conf
 id_rsa
 id_rsa.pub
 *.pfx
+
+# Python
+
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
